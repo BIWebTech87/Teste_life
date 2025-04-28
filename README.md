@@ -7,9 +7,8 @@ The index.html template should use Bootstrap and receive the title dynamically.
 
 # Teste_life
 ### PT
-Um exercício simples para verificar o conhecimento dos estagiários.
-Após resolver todos os erros, o entrevistado receberá uma lista com 10 usuários que serão inseridos no banco de dados
-usando código Python. Os registros não podem ser repetidos. O nome de usuário é único.
-Na página index final, todos os usuários do banco de dados PSQL devem ser exibidos
-com nome de usuário, nome completo, função, telefone e CEP. O Bootstrap deve ser conectado ao index.html.
-O index.html deve receber o título dinamicamente.
+Exercício simples para avaliar os conhecimentos dos estagiários.
+
+Após resolver todos os erros, o entrevistado receberá uma lista com 10 utilizadores, que deverão ser inseridos na base de dados utilizando código Python. Os registos não podem ser repetidos. O nome de utilizador é único.
+Na página final index, todos os utilizadores da base de dados PSQL devem ser exibidos, com o nome de utilizador, nome completo, função, telefone e código postal. O Bootstrap deve ser integrado no index.html.
+O título do index.html deve ser recebido dinamicamente.
