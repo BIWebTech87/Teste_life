@@ -1,14 +1,45 @@
 # Teste_life
 ### EN
-A simple exercise to check knowledge for interns
-After resolving all errors, the interviewee will receive a list of 10 users to insert into the database using Python code. Duplicate entries are not allowed — each username must be unique.
-Finally, the index page (index.html) should display all users from the PostgreSQL database, showing username, full_name, role, phone, and zipcode.
-The index.html template should use Bootstrap and receive the title dynamically.
+Exercise Description:
+This exercise aims to evaluate your skills in Python, databases, and basic frontend integration.
+
+Instructions:
+ * Resolve all initial errors present in the project.
+ * After fixing the issues, a list of 10 users will be provided.
+ *  Each user must be automatically inserted into the PostgreSQL database using Python code.
+
+Important:
+ * There must be no duplicate records.
+ * The username must be unique.
+
+Final Objective:
+ * In the index.html file, display all stored users, showing:
+ * Username
+ * Full Name
+ * Role
+ * Phone number
+ * Postal code
+ * Integrate Bootstrap for styling the index.html page.
+ * The page title (index.html) must be dynamic and received from the backend.
+
 
 # Teste_life
 ### PT
-Exercício simples para avaliar os conhecimentos dos estagiários.
-
-Após resolver todos os erros, o entrevistado receberá uma lista com 10 utilizadores, que deverão ser inseridos na base de dados utilizando código Python. Os registos não podem ser repetidos. O nome de utilizador é único.
-Na página final index, todos os utilizadores da base de dados PSQL devem ser exibidos, com o nome de utilizador, nome completo, função, telefone e código postal. O Bootstrap deve ser integrado no index.html.
-O título do index.html deve ser recebido dinamicamente.
+Descrição do Exercício:
+Este exercício tem como objetivo avaliar o domínio em Python, bases de dados e integração básica de frontend.
+Instruções:
+ * Resolver todos os erros apresentados inicialmente no projeto.
+ * Após a correção, será fornecida uma lista com 10 utilizadores.
+ * Cada utilizador deve ser inserido manualmente na base de dados PSQL através de código Python.
+Importante:
+ * Não pode haver registos repetidos.
+ * O usernome de utilizador deve ser único.
+Objetivo final:
+ * No ficheiro index.html, exibir todos os utilizadores armazenados, apresentando:
+ * Nome de utilizador
+ * Nome completo
+ * Função
+ * Telefone
+ * Código postal
+ * Integrar o Bootstrap para a estilização da página index.html.
+ * O título da página (index.html) deve ser dinâmico, recebido via backend.
